@@ -2,3 +2,6 @@
 
 #create gif
 convert -delay 20 -loop 0 *.png myimage.gif
+
+#reduce the resolution of all pix in the folder to 600x700
+#placeholder
